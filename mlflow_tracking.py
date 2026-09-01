@@ -30,7 +30,7 @@ TEST_SENTENCES = [
 MODELS_TO_COMPARE = [
     None,  # None = modelo default do pipeline (distilbert-sst2-english)
     "cardiffnlp/twitter-xlm-roberta-base-sentiment",
-    # TODO (aluno): adicione um terceiro modelo aqui
+    "finiteautomata/bertweet-base-sentiment-analysis",
 ]
 
 
